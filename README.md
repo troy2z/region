@@ -17,3 +17,15 @@
 ```
 将数据下载到本地，进入china2020目录：cat china2020.sql* > china2020.sql 将文件合并为一个完整的sql数据包，即可使用；
 ```
+## 示例
+![行业分类数据](./images/cate.jpg)
+
+![五级行政区域数据（精确到乡村）](./images/china2020.jpg)
+
+![高校数据](./images/schools.jpg)
+
+![ 乡村地理数据](./images/villages.jpg)
+
+## 欢迎打赏
+![](./images/wxpay.png)
+![](./images/alipay.jpg)
