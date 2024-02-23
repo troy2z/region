@@ -28,4 +28,3 @@
 
 ## 欢迎打赏
 ![](./images/wxpay.png)
-![](./images/alipay.jpg)
